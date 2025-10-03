@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Karan Kesrichand</h1>
 <h3 align="center">A passionate frontend and backend developer from United Kindgom</h3>
 
-- 🌱 I’m currently learning **Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps**
+- 🌱 I’m currently learning **Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3  and DApps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Karantndl](https://github.com/Karantndl)
 
